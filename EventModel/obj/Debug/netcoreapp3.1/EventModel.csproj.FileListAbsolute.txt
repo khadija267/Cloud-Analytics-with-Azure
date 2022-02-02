@@ -1,0 +1,45 @@
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventModel\obj\Debug\netcoreapp3.1\EventModel.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventModel\obj\Debug\netcoreapp3.1\EventModel.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventModel\obj\Debug\netcoreapp3.1\EventModel.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventModel\bin\Debug\netcoreapp3.1\EventModel.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventModel\bin\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventModel\bin\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventModel\obj\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventModel\obj\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventModel\bin\Debug\netcoreapp3.1\EventModel.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventModel\bin\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventModel\bin\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.csproj.AssemblyReference.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventModel\bin\Debug\netcoreapp3.1\EventModel.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventModel\bin\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventModel\bin\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.csproj.AssemblyReference.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventModel\obj\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventModel\bin\Debug\netcoreapp3.1\EventModel.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventModel\bin\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventModel\bin\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.csproj.AssemblyReference.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\b\Downloads\Event Hub VS Solution\EventModel\bin\Debug\netcoreapp3.1\EventModel.deps.json
+C:\Users\b\Downloads\Event Hub VS Solution\EventModel\bin\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\b\Downloads\Event Hub VS Solution\EventModel\bin\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\b\Downloads\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.csproj.AssemblyReference.cache
+C:\Users\b\Downloads\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b\Downloads\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.AssemblyInfoInputs.cache
+C:\Users\b\Downloads\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.AssemblyInfo.cs
+C:\Users\b\Downloads\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.csproj.CoreCompileInputs.cache
+C:\Users\b\Downloads\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\b\Downloads\Event Hub VS Solution\EventModel\obj\Debug\netcoreapp3.1\EventModel.pdb

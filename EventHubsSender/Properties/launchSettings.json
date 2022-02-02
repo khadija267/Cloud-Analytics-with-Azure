@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EventHubsSender": {
+      "commandName": "Project",
+      "commandLineArgs": "20 50"
+    }
+  }
+}

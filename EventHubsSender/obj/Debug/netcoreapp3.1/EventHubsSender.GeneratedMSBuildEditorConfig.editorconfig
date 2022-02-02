@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EventHubsSender
+build_property.ProjectDir = D:\Cloud-A3\A3\Event Hub VS Solution\EventHubsSender\
