@@ -5,7 +5,9 @@
  All event hub connection and data schema code was using visual studio.
  We used a 20 entries to be streamed through 50 events in a time interval of 2 sec.
  <p float="left">
-  <img src="https://github.com/khadija267/Cloud-Analytics-with-Azure/blob/main/images/3.png?raw=true" width="400" />
+   <img src="https://github.com/khadija267/Cloud-Analytics-with-Azure/blob/main/images/Screenshot from 2022-07-16 01-07-113.png?raw=true" width="400" />
+
+  <img src="https://github.com/khadija267/Cloud-Analytics-with-Azure/blob/main/images/1.png?raw=true" width="400" />
 
 </p>
 
@@ -15,4 +17,17 @@
   <img src="https://github.com/khadija267/Cloud-Analytics-with-Azure/blob/main/images/3.png?raw=true" width="400" />
 
 </p>
+- End of the stream:
+ <p float="left">
+   <img src="https://github.com/khadija267/Cloud-Analytics-with-Azure/blob/main/images/Screenshot from 2022-07-16 01-07-476.png?raw=true" width="400" />
+  <img src="https://github.com/khadija267/Cloud-Analytics-with-Azure/blob/main/images/Screenshot from 2022-07-16 01-07-567.png?raw=true" width="400" />
+
+</p>
  
+- Running queries:
+</p>
+- End of the stream:
+ <p float="left">
+   <img src="https://github.com/khadija267/Cloud-Analytics-with-Azure/blob/main/images/Screenshot from 2022-07-16 01-08-448.png?raw=true" width="400" />
+
+</p>
